@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cosmosmedic/static/css/main.e6c13ad2.css",
-    "main.js": "/cosmosmedic/static/js/main.adbc0044.js",
+    "main.js": "/cosmosmedic/static/js/main.71750fdd.js",
     "static/js/787.05671433.chunk.js": "/cosmosmedic/static/js/787.05671433.chunk.js",
     "index.html": "/cosmosmedic/index.html",
     "main.e6c13ad2.css.map": "/cosmosmedic/static/css/main.e6c13ad2.css.map",
-    "main.adbc0044.js.map": "/cosmosmedic/static/js/main.adbc0044.js.map",
+    "main.71750fdd.js.map": "/cosmosmedic/static/js/main.71750fdd.js.map",
     "787.05671433.chunk.js.map": "/cosmosmedic/static/js/787.05671433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.adbc0044.js"
+    "static/js/main.71750fdd.js"
   ]
 }
